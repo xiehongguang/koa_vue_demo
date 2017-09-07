@@ -8,7 +8,7 @@
         <md-button class="md-icon-button" @click.native="toggleLeftSidenav">
           <md-icon> menu </md-icon>
         </md-button>
-        <h2 class="md-title center" >Server Monitor Report Server</h2>
+        <h2 class="md-title center" >koa vue demo</h2>
         <div class="field-group">
           <md-input-container>
            <!-- 添加一个time_data方法，使每次点击下拉框的option时，不同的时间段显示不同的数据-->
