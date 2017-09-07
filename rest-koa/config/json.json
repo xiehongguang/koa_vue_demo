@@ -1,0 +1,23 @@
+{
+    "products":
+    [
+        {
+            "id":"p1",
+            "name":"iPhone 7",
+            "manufacturer":"Apple",
+            "price":6800
+        },
+        {
+            "id":"p2",
+            "name":"ThinkPad T440",
+            "manufacturer":"Lenovo",
+            "price":5999
+        },
+        {
+            "id":"p3",
+            "name":"LBP2900",
+            "manufacturer":"Canon",
+            "price":1099
+        }
+    ]
+}

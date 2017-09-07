@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACV,KAAK,EAAC,KAAK;EACX,MAAM,EAAC,KAAK;EACZ,MAAM,EAAE,SAAS;;AAEnB,SAAS;EACP,KAAK,EAAC,IAAI",
+"sources": ["totalVue.scss"],
+"names": [],
+"file": "totalVue.css"
+}

@@ -1,0 +1,58 @@
+#show {
+  width: 60%;
+  height: 200px;
+  border: 1px solid #2b669a;
+  margin: 5px auto; }
+
+.sameTotal {
+  width: 33%;
+  height: 90%;
+  border: 1px solid #1875e7;
+  float: left;
+  margin: 8.5px 0;
+  text-align: left; }
+
+.sameContainOneTwo {
+  width: 95%;
+  height: 50%;
+  margin: 0 auto; }
+
+.sameOne {
+  width: 40%;
+  height: 100%;
+  text-align: center;
+  padding-top: 30px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14pt;
+  float: left;
+  margin-left: 10px; }
+
+.sameTwo {
+  width: 50%;
+  height: 100%;
+  border: 1px solid purple;
+  float: left;
+  margin-left: 5px; }
+
+.sameTwoAdd {
+  width: 90%;
+  height: 40%;
+  border: 1px solid darkblue;
+  margin: 5px 4px;
+  font-size: 14pt; }
+
+.sameTwoMinus {
+  width: 90%;
+  height: 40%;
+  border: 1px solid darkblue;
+  margin: 5px 4px;
+  font-size: 14pt; }
+
+.sameThree {
+  clear: left;
+  width: 80%;
+  height: 40%;
+  border: 1px solid gold;
+  margin: 0 auto; }
+
+/*# sourceMappingURL=showNumberBar.css.mapr.css.map */
