@@ -4,7 +4,7 @@
 
 # rest-koa
 
-> 基于 restful 和 koa 的后台逻辑程序 
+> 基于 restful 和 koa2 的后台逻辑程序 
 
 ## Build Setup
 
