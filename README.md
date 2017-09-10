@@ -36,24 +36,24 @@ npm test
 
 
  # toolbar and whiteframe
-![image](https://github.com/Alvis888/images/blob/master/toolbar-whiteFrame.png)
+![image](https://github.com/Alvis888/images/blob/master/vue_demo/toolbar-whiteFrame.png)
 
 
 
  # barchart
  
-![image](https://github.com/Alvis888/images/blob/master/barChart.png)
+![image](https://github.com/Alvis888/images/blob/master/vue_demo/barChart.png)
 
  # linechart
  
-![image](https://github.com/Alvis888/images/blob/master/LineChart.png)
+![image](https://github.com/Alvis888/images/blob/master/vue_demo/LineChart.png)
 
  # piechart
  
-![image](https://github.com/Alvis888/images/blob/master/PieChart.png)
+![image](https://github.com/Alvis888/images/blob/master/vue_demo/PieChart.png)
 
  # drawer
  
-![image](https://github.com/Alvis888/images/blob/master/SlideNav.png)
+![image](https://github.com/Alvis888/images/blob/master/vue_demo/SlideNav.png)
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
