@@ -12,6 +12,9 @@
 # install dependencies
 npm install
 
+# phantomjs-prebuilt@2.1.14安装失败
+npm install phantomjs-prebuilt@2.1.13 --ignore-scripts
+
 # .scss to .css
 sass filename.scss filename.css
 
